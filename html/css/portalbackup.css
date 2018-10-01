@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+margin:0;
+padding:0;
+}
+.maincontainer{
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 1px solid #999999;
+	margin-top: 5px;
+	padding-bottom: 0px;
+	height: auto;
+}
+.floatleft{
+	float: left;
+}
+
+.maincontainer #linkbox{
+	width: 250px;
+	float: left;
+	margin-left: 12px;
+	margin-top: -10px;
+	height: auto;
+}
+
+.maincontainer #bar{
+	background-image: url( ../images/header_banner.png);
+	background-repeat: repeat-x;
+	height: 100px;
+	width: 800px;
+}
+.maincontainer ul{
+	border: 1px solid #999999;
+	list-style-type: square;
+	color: #333333;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-left: 20px;
+}
+.maincontainer ul a:link, a:visited, a:hover{
+	text-decoration: none;
+	color: #000;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: .95em;
+	font-weight: normal;
+}
+
+
+.maincontainer ul h2 {
+	margin-top: 0px;
+	margin-left: -20px;
+	padding: 6px 22px;
+	height: 30px;
+	text-align:center;
+}
+.maincontainer ul .bg1{
+	background-image: url( ../images/pwmgmnt.png);
+	/*
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #FFFFFF;
+	font-size: .95em;
+	font-weight: 500;
+	letter-spacing: .5px; */
+	
+}
+
+.maincontainer ul .bg2{
+	background-image: url( ../images/email.png);
+}
+
+.maincontainer ul .bg3{
+	background-image: url( ../images/resources.png);
+}
+
+.maincontainer ul .bg4{
+	background-image: url( ../images/websites.png);
+}
+
+.maincontainer ul .bg5{
+	background-image: url( ../images/tots.png);
+}
+
+.maincontainer ul h6{
+	font-size: .73em;
+	text-decoration: none;
+	color: #777777;
+	margin: auto;
+	padding: 0px 5px 0px 5px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:normal;
+}
+
+.maincontainer ul h6 a:link{
+	font-size: 1em;
+	text-decoration: none;
+	color: #777777;
+	margin: auto;
+	padding: 0px 5px 0px 0px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:normal;
+}
+.maincontainer #linkbox ul li{
+	list-style: circle;
+	color: #004985;
+	margin-left: 5px;
+	margin-top: 10px;
+}
+sup {color: #cc3300; background-color: #e7e5e3; padding: 0 2px;}

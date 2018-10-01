@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>links.gst.com</title>
+<link href="css/portal.css" rel="stylesheet" type="text/css" />
+</head>
+
+<div class="maincontainer">
+<body>
+<div id="bar"></div>
+
+<div id="linkbox">
+<ul>
+<h2 class="bg1"></h2>
+  	<li><a href="https://password.gst.com/#Edit">GST User Profile</a></li>
+<h6>Create a set of questions that will let you change your password, unlock account and edit password profile.</h6>
+  	<li><a href="https://password.gst.com/#Reset">Reset  Password </a></li>
+<h6>Reset your password if it has expired or you don't recalled the previous one.</h6>
+	<li><a href="https://password.gst.com/#Unlock">Unlock Account</a></li>
+<h6>Unlock your account if you remember your password.</h6>
+	<li><a href="https://password.gst.com/#Change">Change Password</a></li>
+<h6>Change your password if you know your current password.</h6>
+</ul>
+</div>
+
+
+<div id="linkbox">
+<ul>
+<h2 class="bg2"></h2>
+	<li><a href="https://mail.gst.com/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.gst.com%2fowa%2f">GST WebMail</a></li>
+<h6>Access GST email via web.</h6>
+	<li><a href="https://filter.gst.com">GST JunkBox</a></li>
+<h6>Retrieve any GST email that got junked and tune your antispam filter.</h6>
+	<li><a href="https://cms.gst.com/Shared%20Documents/email%20configuration.aspx">GST Email Configuration</a></li>
+<h6>Information related to configuring GST email.</h6>
+<br><br>
+</ul>
+</div>
+
+
+<div id="linkbox">
+<ul>
+<h2 class="bg3"></h2>
+	<li><a href="https://timesheet.gst.com">GST Timesheet</a></li>
+<h6>Website to record work hours and tasks onto timesheet.</h6>
+	<li><a href="https://cms.gst.com/Timesheet%20User%20Guide/GST%20Time%20and%20Expense%20Users%20Guide%208.28.pdf">Timesheet User Guide</a></li>
+<h6>This guide will assist you to navigate through the GST timesheet.</h6>
+	<li><a href="cognos.gst.com/ibmcognos">Deltek DPM</a></li>
+<h6>Deltek Performance Management, only for authorized GST users.</h6>
+	<li><a href="https://cms.gst.com/Lists/Announcements/DispForm.aspx?ID=22">VPN Access</a></li>
+<h6>Request Access to VPN and download the configured VPN client for Greenbelt.<br /></h6>
+	<li><a href="https://quality.gst.com/qualtrax41/">Qualtrax</a></li>
+<h6>Qualtrax is the Quality Assurance and ISO certification software for GST.</h6>
+</ul>
+<br /><br />
+</div>
+
+<div id="linkbox">
+<ul>
+<h2 class="bg4"></h2>
+<li><a href="https://cms.gst.com">GST Intranet</a></li>
+<h6>Forms, Corporate announcements, Policies, Newsletters, Holidays and other useful information.</h6>
+<li><a href="http://www.gst.com">GST Corporate Site</a></li>
+<h6>We always welcome feed back about the site.</h6>
+	<li><a href="https://directory.gst.com">GST Employee Directory</a></li>
+<h6>Find all the info about your coworkers.</h6>
+<li><a href="https://cms.gst.com/Faxes/Forms/AllItems.aspx">GST  FaxServer (301-474-5970)</a> </li>
+<h6>All fax sent to 301-474-5970 can be downloaded here.</h6>
+	<li><a href="https://cms.gst.com/Lists/LaptopProjector%20Availability/calendar.aspx">Reserve Laptops &amp; Projectors</a> </li>
+<h6>If you need a laptop or a projector you can borrow one here.</h6>
+
+</ul>
+</div>
+
+<div id="linkbox">
+<ul>
+<h2 class="bg5"></h2>
+<li><a href="https://tots.gst.com" target="_blank">Task Order Tracking System (TOTS)</a></li>
+<h6>Online tool that allows selected users to share task order documents via secure online environment.</h6>
+<!-- <li><a href="http://links.gst.com/tots_access_form.html">Request Access Form</a></li>
+<h6>TOTS Request Access form.</h6>
+<li><a href="http://links.gst.com/tots_access_update.html">Update Access Form</a></li>
+<h6>TOTS Update Request Access form.</h6>-->
+<li><a href="https://password.sci-techng.com/">Account Management</a></li>	
+<h6>Manage your TOTS account. Unlock account, edit profile, change or reset account password.</h6><li><a href="https://password.sci-techng.com/#Change">Initial Password Update</a></li>
+<h6>TOTS Self-service password update.</h6>
+</ul>
+</div>
+
+<div id="linkbox">
+<ul>
+<h2 class="bg6"></h2>
+<li><a href="https://cms.gst.com/Shared%20Documents/2-20-14%20eeo%20is%20the%20law.pdf" target="_blank">Equal Employement Opportunity is the LAW</a></li>
+<h6>Click here to view the law</h6>
+</ul>
+</div>
+
+
+
+
+
+<div style="clear:both;"></div>
+</body>
+</div>
+
+</html>
+
+
+
+
+
